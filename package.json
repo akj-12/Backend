@@ -1,0 +1,15 @@
+{
+  "name": "backed-tutorial",
+  "version": "1.0.0",
+  "description": "Learning about backend",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Amit Jha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
